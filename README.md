@@ -29,7 +29,7 @@ pip install pyautogui
    ```bash
    git clone https://github.com/yourusername/game-automation-script.git
    ```
-   2. **Edit the Script**
+2. **Edit the Script**
   
    Open the main.py script in your favorite text editor and adjust the constants at the top to suit your specific task,
    example:
