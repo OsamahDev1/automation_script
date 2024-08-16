@@ -1,4 +1,4 @@
-# Game Automation Script
+# Click Automation Script
 
 This Python script automates the process of interacting with a game by detecting specific images on the screen and clicking on them. It is designed to be flexible and easily configurable for various tasks by modifying the constants defined at the beginning of the script.
 
